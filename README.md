@@ -1,4 +1,4 @@
-**Fake Product Review Detection using KNN and Random Forest**
+###Fake Product Review Detection using KNN and Random Forest
 
 This repository contains code for detecting fake product reviews using two popular machine learning algorithms: K-Nearest Neighbors (KNN) and Random Forest. Fake reviews can be detrimental to consumers who rely on them to make purchasing decisions, and thus, it's important to develop robust methods to identify them. 
 
